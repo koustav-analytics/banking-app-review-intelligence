@@ -1,0 +1,7 @@
+,reach_pct,peer_avg_pct,gap_pts,impact,confidence_pct,effort,RICE
+Slow / loading,36.6,10.5,26.1,2,85,3,20.7
+Update / redesign,21.6,25.1,-3.5,3,70,4,11.3
+Login / OTP / PIN / session,20.3,17.4,2.9,2,80,3,10.8
+Crash / won't open,14.9,13.8,1.1,2,75,3,7.4
+Not working / downtime,10.7,13.8,-3.2,3,85,4,6.8
+Payments / UPI,10.0,14.6,-4.6,3,80,5,4.8
