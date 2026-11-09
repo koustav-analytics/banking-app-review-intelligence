@@ -1,3 +1,6 @@
+ import os
+   os.makedirs("data/raw", exist_ok=True)
+
 from google_play_scraper import reviews, Sort
 import pandas as pd
 import time
